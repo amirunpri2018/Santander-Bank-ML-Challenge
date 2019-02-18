@@ -1,5 +1,5 @@
 # Santander-Bank-ML-Challenge
-Contains all the ML code used to achieve 122nd place on the public LB on kaggle's Santander Customer Satisfaction Challenge.
+Contains all the ML code used to achieve 117nd place on the public LB on kaggle's Santander Customer Satisfaction Challenge.
 
 The file R file is the public script for the tuned XGB parameters to run on the original train and test files of the challenge. The hard coded rules of setting certain values below a certain threshold to 0 clearly won't generalize well, but at the end, all I was trying to do was overfit the public LB as much as I could.
 
